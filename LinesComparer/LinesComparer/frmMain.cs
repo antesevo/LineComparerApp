@@ -30,7 +30,7 @@ namespace LinesComparer
                     }
                     else
                     {
-                        MessageBox.Show("Files are NOT equal!");
+                        MessageBox.Show("Files are NOT equal!!!");
                     }
                 }
                 else
